@@ -10,7 +10,9 @@ Feature Engineering & Data Preprocessing
 
 Regression Models:
 Linear Regression (tested and removed)
+
 Random Forest
+
 Support Vector Regression (SVR) (tested and removed)
 
 #  Problem Statement
