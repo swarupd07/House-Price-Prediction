@@ -12,7 +12,8 @@ Regression Models:
 Linear Regression (tested and removed)
 Random Forest
 Support Vector Regression (SVR) (tested and removed)
-🔍 Problem Statement
+
+#  Problem Statement
 House prices vary significantly based on factors like location, size, and market conditions. The goal of this project is to create an accurate predictive model that estimates house prices based on available features.
 
 # Data Description:
