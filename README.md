@@ -9,9 +9,10 @@ Machine Learning (Scikit-Learn)
 Feature Engineering & Data Preprocessing
 
 Regression Models:
+
 Linear Regression (tested and removed)
 
-Random Forest
+Random Forest Regressor
 
 Support Vector Regression (SVR) (tested and removed)
 
